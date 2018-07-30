@@ -20,9 +20,10 @@ Instructions
 - Keys: Collect 3 keys to gain a life back.
 - In Trouble?: Jumping into the water, moves you player to the original starting position.
 
-![Score Panel and Instruction Panel](https://github.com/gshbears/pc-nanodegree-arcade-game/blob/master/images/game_instr_selection.png)
+![Score Panel and Instruction Panel](https://raw.githubusercontent.com/gshbears/pc-nanodegree-arcade-game/master/images/game_instr_selection.PNG)
 
-![Score Panel and Game Play](https://github.com/gshbears/pc-nanodegree-arcade-game/blob/master/images/game_play.png)
+![Score Panel and Game Play](https://raw.githubusercontent.com/gshbears/pc-nanodegree-arcade-game/master/images/game_play.PNG)
+
 
 Prerequisites
 --
