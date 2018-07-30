@@ -10,15 +10,19 @@ http://htmlpreview.github.io/?https://github.com/gshbears/pc-nanodegree-arcade-g
 
 Instructions
 ----
--The game defaults to the instructions and character select.
--Character: Press arrow keys to highlight desired character.
--Start Game: Press the ‘Enter’ key.
--Pause Game: Press the ‘p’ key.
--Restart Game: Press the ‘r’ key.
--Score: Collect the gems at various values (see scoreboard for gem values)
--Hearts: Lose a life when running into an Enemy represented by a bug on the road.
--Keys: Collect 3 keys to gain a life back.
--In Trouble?: Jumping into the water, moves you player to the original starting position.
+- The game defaults to the instructions and character select.
+- Character: Press arrow keys to highlight desired character.
+- Start Game: Press the ‘Enter’ key.
+- Pause Game: Press the ‘p’ key.
+- Restart Game: Press the ‘r’ key.
+- Score: Collect the gems at various values (see scoreboard for gem values)
+- Hearts: Lose a life when running into an Enemy represented by a bug on the road.
+- Keys: Collect 3 keys to gain a life back.
+- In Trouble?: Jumping into the water, moves you player to the original starting position.
+
+![Score Panel and Instruction Panel](https://github.com/gshbears/pc-nanodegree-arcade-game/blob/master/images/game_instr_selection.png)
+
+![Score Panel and Game Play](https://github.com/gshbears/pc-nanodegree-arcade-game/blob/master/images/game_play.png)
 
 Prerequisites
 --
@@ -26,8 +30,9 @@ none
 
 Authors
 --
-Paul Christenson - Udacity Student
-Udacity Front End Course Development - Instructors - Initial 
+- Paul Christenson - Udacity Student
+- Udacity Front End Course Development - Instructors - Initial 
 
 Project came with index.html, Images, engine.js, app,js and resources.js. The initial starting project code can be found at the following repository.  
 https://github.com/udacity/frontend-nanodegree-arcade-game.git
+
