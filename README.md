@@ -1,7 +1,7 @@
 Classic Arcade Game - Gem Raider
 ===============================
 
-This is a classic arcade game inspired by Frogger called Gem Raider. The object of the game is to collect as many gems at various values without getting hit by the enemies (bugs). If you get into trouble you can jump into the water to and rest your player at the starting position in the grass. This is a keyboard listener game mainly using the arrow keys to navigate. This project was created for a Nano degree provided by Udacity. 
+This is a classic arcade game inspired by Frogger called Gem Raider. The object of the game is to collect as many gems at various values without getting hit by the enemies (bugs). If you get into trouble you can jump into the water to return your player at the starting position in the grass. This is a key stroke listener game mainly using the arrow keys to navigate. This project was created for a Nano degree provided by Udacity. To reinforce course lession in regards to html, css & javascript from the course.
 
 Getting Started
 --------------
