@@ -249,7 +249,7 @@ var Engine = (function (global) {
 		ctx.fillText(gameStatus[gameStatusIndex].StatusNote, gameStatus[gameStatusIndex].x, gameStatus[gameStatusIndex].y);
 
 		ctx.font = "15px Arial";
-		ctx.fillText("Character: Press arrow keys to highlight desired charcter.", 15, row);
+		ctx.fillText("Character: Press arrow keys to highlight desired character.", 15, row);
 		row += 30;
 		ctx.fillText("Start Game: Press the 'Enter' key", 15, row);
 		row += 30;
